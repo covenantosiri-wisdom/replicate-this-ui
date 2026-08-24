@@ -56,6 +56,10 @@ No build step or dependencies are required.
    ```
 2. Open `index.html` directly in your browser, or serve it locally (e.g. with the VS Code "Live Server" extension) for the best experience.
 
+## Deployment
+
+View at: https://vercel.com/ctgeees-projects/replicate-this-ui/5YexGHkyaynNWd2rsm9LezjNMsYX
+
 ## Acknowledgements
 
 Built as part of a SIWES industrial training placement at Aptiw Software Labs, as a hands-on exercise in matching an existing UI pixel-for-pixel using HTML and CSS.
