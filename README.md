@@ -58,7 +58,7 @@ No build step or dependencies are required.
 
 ## Deployment
 
-View at: https://vercel.com/ctgeees-projects/replicate-this-ui/5YexGHkyaynNWd2rsm9LezjNMsYX
+View at: https://replicate-this-ui-git-main-ctgeees-projects.vercel.app/
 
 ## Acknowledgements
 
